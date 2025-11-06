@@ -1,0 +1,14 @@
+.welcome{
+    h1:hover{
+        text-decoration: underline;
+        color: brown;
+    }
+    button:hover{
+        color: rgb(4, 0, 255);
+    }
+    background-color: aqua;
+}
+
+body{
+    margin:2rem;
+}
