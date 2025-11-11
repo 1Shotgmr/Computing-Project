@@ -3,7 +3,7 @@
   justify-content: space-between;
   align-items: center;
   background: #476f95;
-  padding: 0.8em 2em;
+  padding:0.8em 2em;
   box-shadow: 0 2px 8px rgba(249, 191, 191, 0.07);
 }
 
@@ -35,4 +35,12 @@
 .intro{
   margin: 2rem;
   text-align: center;
+}
+.faces{
+  display: flex;
+  flex-direction: row;
+  img{
+    width:15%;
+  }
+  justify-content: center;
 }
