@@ -38,6 +38,7 @@
   float: left;
   margin-top: 3rem;
   margin-left: 2rem;
+  margin-bottom: 2rem;
   font-family: garamond;
   width: 40%;
   height: 90%;
@@ -47,6 +48,7 @@
   float: right;
   margin-top: 3rem;
   margin-right: 2rem;
+  margin-bottom: 2rem;
   font-family: garamond;
   width: 40%;
   height: 90%;
@@ -65,7 +67,6 @@ footer {
   padding-top: 20px;
   padding-bottom: 20px;
   width: 100%;
-  clear: both;
   position: relative;
   margin-top: 10rem;
 }
