@@ -69,4 +69,8 @@ footer {
   position: relative;
   margin-top: 10rem;
 }
-
+table{
+  img{
+    width:15%;
+  }
+}

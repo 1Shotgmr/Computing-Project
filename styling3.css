@@ -33,14 +33,17 @@
   box-shadow: 0 2px 12px 0 rgba(62,180,137,0.09);
 }
 .intro{
-  margin: 2rem;
   text-align: center;
-}
-.faces{
-  display: flex;
-  flex-direction: row;
   img{
     width:15%;
   }
-  justify-content: center;
+}
+table{
+  border: solid;
+}
+td{
+  border: solid;
+}
+th{
+  border: solid;
 }
